@@ -39,7 +39,7 @@ Los estándares que definen las directrices de estilo de codificación vigentes 
 
 ## PSR-1: Basic Coding Standard
 
-Son las pautas básicas. Este este documento no entraremos en detalle. Se puede consultar en: [https://www.php-fig.org/psr/psr-1/](https://www.php-fig.org/psr/psr-1/)
+Son las pautas básicas. En este documento no entraremos en detalle. Se puede consultar en: [https://www.php-fig.org/psr/psr-1/](https://www.php-fig.org/psr/psr-1/)
 
   
 
