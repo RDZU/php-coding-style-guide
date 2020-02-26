@@ -45,7 +45,7 @@ Son las pautas básicas. En este documento no entraremos en detalle. Se puede co
 
 ## PSR-12: Extended Coding Style
 
-Extiende al estándar PSR-1 y sustituye al PSR-2 con las nuevas funcionalidades añadidas recientemente en PHP 7.x.
+Extiende al estándar PSR-1 y sustituye al PSR-2 con las nuevas funcionalidades añadidas recientemente en PHP 7.x. Se puede consultar en: [https://www.php-fig.org/psr/psr-12/](https://www.php-fig.org/psr/psr-12/)
 
   
 
